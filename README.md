@@ -1,6 +1,8 @@
 FifteenTwenty
 =============
 
+<img src="FifteenTwenty-demo.png" alt="Text demo of a crude and blocky vector font, based on that used by Commodore's 1520 pen plotter" />
+
 Made in 2016 by Stewart C. Russell - scruss.com
 
 A mono-spaced font family derived from character stroke coordinates
